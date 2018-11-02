@@ -1,6 +1,6 @@
-## Todo List.
+## Todo List
 
-Build a todo list with NodeJs, VueJs & MonogDB
+Build a todo list with NodeJs, VueJs & MonogDB & JWTToken
 
 **Run**
 
@@ -15,5 +15,9 @@ npm install
 npm run build
 
 ```
+
+**Run**
+
+npm start
 
 Navigate to http://localhost:4000
